@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Hello World!"
+tags: [jekyll] 
+categories: [First!] 
 date: 2017-07-05
 ---
 
